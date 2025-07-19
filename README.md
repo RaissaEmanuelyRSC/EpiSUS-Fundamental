@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
-  <title>EpiSUS Fundamental</title>
+  <title>EpiSUS Fundamental - Produto 2</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -18,13 +18,14 @@
 </head>
 <body>
   <h1>EpiSUS Fundamental - Produto 2</h1>
+  <h2>Análise descritiva dos casos notificados de infecção pelo vírus Zika na Paraíba, Brasil (2016–2024)</h2>
+  
   <iframe 
-    title="Análise Descritiva da Dengue na Paraíba, BR. 2025." 
+    title="Análise Descritiva da Infecção por Zika na Paraíba, 2016 a 2024"
     width="600" 
     height="373.5" 
-    src="https://app.powerbi.com/view?r=eyJrIjoiYjZlYzgyZTItMmFlYi00MDg3LWFhMWItODg3MTdmOTZkMGJhIiwidCI6IjlhNTU0YWQzLWI1MmItNDg2Mi1hMzZmLTg0ZDg5MWU1YzcwNSJ9" 
-    frameborder="0" 
-    allowFullScreen="true">
+    src="https://app.powerbi.com/reportEmbed?reportId=af4476ee-d25a-480d-a148-59ac389d9b75&autoAuth=true&ctid=f310b526-e195-4805-a55e-67e28f2fefdb" 
+    allowfullscreen="true">
   </iframe>
 </body>
 </html>
